@@ -1,12 +1,12 @@
-Quiz8
+# Quiz8
 
 ### part1
 
 ### This is an animation code for quicksand. Rainbow-colored falling sand can generate a multivariate background, and I want to use this code to accomplish a multivariate transformation of the background.
 
-![example1](image/example1.png)
-![example2](image/example2.png)
-![example3](image/example3.png)
+![Example1](image/example1.png)
+![Example2](image/example2.png)
+![Example3](image/example3.png)
 
 
 ### part2
