@@ -10,7 +10,7 @@ Quiz8
 
 
 ### part2
-[coding](https://github.com/alin256/falling_sand_fixed)
+[coding link](https://github.com/alin256/falling_sand_fixed)
 
 ### The source code for the animation of the quicksand is directly available on the web, above is a link to the quicksand, and I think I'm going to modify the colors in the code, gradient them, and make some changes to the original background of our group, and even to the apple tree itself.
 ### Based on the above effect, we can make the observer see a different picture background each time.
