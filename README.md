@@ -14,3 +14,7 @@
 
 ### The source code for the animation of the quicksand is directly available on the web, above is a link to the quicksand, and I think I'm going to modify the colors in the code, gradient them, and make some changes to the original background of our group, and even to the apple tree itself.
 ### Based on the above effect, we can make the observer see a different picture background each time.
+
+![CODING1](image/CODING1.png)
+![CODING2](image/CODING2.png)
+![CODING3](image/CODING3.png)
